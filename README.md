@@ -1,4 +1,4 @@
-# Codigo-de-clase
+# PC2
 class paciente:
     edad = 0
 
