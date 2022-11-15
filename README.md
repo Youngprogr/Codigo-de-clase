@@ -32,9 +32,6 @@ class paciente:
         return self.nivel
 
 
-############ Desarrollo del programa #############
-
-
 def validaedad():
     edad = 0
 
